@@ -112,4 +112,4 @@ heroku container:release web -a nombre_de_la_app
 
 Para finalizar entrar en vuestra aplicación de heroku y os saldrá esto 
 
-![App](./assets/demoapp.png)
+![App](./assets/demoapp.PNG)
